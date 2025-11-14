@@ -13,7 +13,7 @@ assignees: ''
 
 ## Task
 
-- [] item1
+- [ ] item1
 
 ## References
 
